@@ -6,29 +6,10 @@
 		header("Location: dashboard.php");
     }
 
-    echo "I am here";
-    //include("start_header.php");
+    include 'header_start.php';
+    
 
 ?>
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	<title>Bohail Manob Kalyan Songstha</title>
-</head>
-
-
-
-
 
 
 <body>
@@ -37,9 +18,6 @@
     
 
 </body>
-
-
-
 
 
 </html>
